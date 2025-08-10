@@ -1,7 +1,7 @@
 #pragma once
 #include "raylib.h"
 #include <memory>
-#include "include/player.h"
+#include "player.h"
 
 class Game
 {
